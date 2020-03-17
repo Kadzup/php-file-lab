@@ -1,0 +1,4 @@
+fname;lname;birthday;address;weight;height
+Дмитро;Стефурак;1999-11-12;Південно-кільцева, 120;69;177
+Into;English;2019-07-13;kiev;100;67
+test;test2;1999-12-12;address;160;189
